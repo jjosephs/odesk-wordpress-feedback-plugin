@@ -1,0 +1,26 @@
+#jinnovate_odesk_wrap .jinnovate_odesk_testimonial{
+    border-top: 1px solid #EFEFEF;
+    border-bottom: 1px solid #BCBCBC;
+    margin-bottom: 40px;
+}
+
+#jinnovate_odesk_wrap .jinnovate_odesk_t_title{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#odesk_slider{
+    width:200px;
+    display:inline-block;
+    margin-right: 20px;
+    margin-top:7px;
+}
+
+#jinnovate-odesk-options-form label{
+    display:inline-block;
+    width:180px;
+}
+
+.jinnovate-widget-read-more{
+    text-align:right;
+}
